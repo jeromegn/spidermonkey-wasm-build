@@ -37,7 +37,7 @@ jobs:
         with:
           profile: default
           target: wasm32-wasi
-          toolchain: 1.57.0
+          toolchain: 1.65.0
           default: true
 
       - run: sudo apt-get update
