@@ -8,7 +8,6 @@ ac_add_options --disable-jit
 ac_add_options --disable-shared-js
 ac_add_options --disable-shared-memory
 ac_add_options --disable-tests
-ac_add_options --disable-cranelift
 ac_add_options --disable-clang-plugin
 ac_add_options --disable-jemalloc
 ac_add_options --disable-debug
